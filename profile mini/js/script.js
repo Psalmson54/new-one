@@ -64,3 +64,6 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
     loop: true
 
    });
+  
+
+   /* https://psalmson54.github.io/psalmson_mini-profile/ */
